@@ -6,10 +6,13 @@ Computer Vision مهمة تحليل وإكتشاف الأوجه والأجسام
 يجب تحميل برنامج البايثون  
 https://www.python.org/downloads/ :رابط التحميل من الموقع
   
-OpenCV لتنزيل مكتبة ال
+OpenCV لتنزيل مكتبة ال  
+numpy الـ
 ----------
-`$pip install opencv-python` أرجو كتابة الأمر     
- Python في محرر البايثون
+`$pip install opencv-python` أرجو كتابة الأمر       
+cmd من خلال موجه الأوامر  
+![numpy install code](https://user-images.githubusercontent.com/85587466/126020047-e32e7edc-ceae-4eae-9ba4-5a30d762bd3f.png)
+
 ----------
 Pycharm وتم تشغيل الكود البرمجي عبر برنامج  
 ----------
