@@ -8,8 +8,10 @@ https://www.python.org/downloads/ :رابط التحميل من الموقع
   
 OpenCV لتنزيل مكتبة ال
 ----------
-`$pip install opencv-python` أرجوا كتابة الأمر     
+`$pip install opencv-python` أرجو كتابة الأمر     
  Python في محرر البايثون
-
+----------
+Pycharm وتم تشغيل الكود البرمجي عبر برنامج  
+----------
 https://www.youtube.com/watch?v=PLKLsPDZ1t0 :رابط المقطع التي تم تتبع شرحه 
 https://drive.google.com/file/d/1pomC9Zw178nxgNOrpemaQfSH8rSVyMBD/view :رابط الكود البرمجي
